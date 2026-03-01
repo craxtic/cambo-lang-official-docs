@@ -1,82 +1,51 @@
-# Docus Default Starter
+# Cambo Programming language documentation
 
-> A beautiful, minimal starter for creating documentation with Docus
+> A hobby project! \
+> Visit the site: https://craxtic.org
 
-This is the default Docus starter template that provides everything you need to build beautiful documentation sites with Markdown and Vue components.
+This is the official [Cambo](https://craxtic.org/) documentation site that provides everything you need to know about this programing langauge. 
+
+
+
+## What is Cambo?
+
+Cambo is high-level, general-purpose, multi-paradigm programming language designed to be simple yet powerful for any developments. It is a statically and strongly typed language whose syntax is influenced by modern langauges.
+One of the main purpose of this creation is to design an entirely new modern language with the simplicity of C and the capibility of C++ and other powerful languages. \
+_One thing to keep in mind is that this langauge is originally just a hobby project, founded by [a guy]() who is fascinated by the elegance of language design._
+
+
+## Key Features
+
+This language includes a range of features such as
+
+- **Typing system**: static and strong by nature.
+- **Error handling**: a very beatiful way to handle the error in the develpment.
+- **Struct**: unlike in C, where you can only have variables as members of the struct, in Cambo, you can define a constructor, a destructor and methods within the [struct](). 
+- **Native code**: source code are compiled direcly to native machince code.
+- **more...**
+
 
 > [!TIP]
-> If you're looking for i18n support, check out the [i18n starter](https://github.com/nuxt-themes/docus/tree/main/.starters/i18n).
+> This site was built with Nuxt Content, you can also download this site and run locally on your computer!
 
-## ✨ Features
 
-- 🎨 **Beautiful Design** - Clean, modern documentation theme
-- 📱 **Responsive** - Mobile-first responsive design  
-- 🌙 **Dark Mode** - Built-in dark/light mode support
-- 🔍 **Search** - Full-text search functionality
-- 📝 **Markdown Enhanced** - Extended markdown with custom components
-- 🎨 **Customizable** - Easy theming and brand customization
-- ⚡ **Fast** - Optimized for performance with Nuxt 4
-- 🔧 **TypeScript** - Full TypeScript support
-
-## 🚀 Quick Start
-
+## Offline docs
+To run this site locally on your computer, you can either downloard the ZIP or clone it with command below:
 ```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+git clone https://github.com/craxtic/cambo-lang-official-docs.git
 ```
 
-Your documentation site will be running at `http://localhost:3000`
-
-## 📁 Project Structure
-
-```
-my-docs/
-├── content/              # Your markdown content
-│   ├── index.md         # Homepage
-│   ├── 1.getting-started/  # Getting started section
-│   └── 2.essentials/    # Essential documentation
-├── public/              # Static assets
-└── package.json         # Dependencies and scripts
-```
-
-## ⚡ Built with
-
-This starter comes pre-configured with:
-
-- [Nuxt 4](https://nuxt.com) - The web framework
-- [Nuxt Content](https://content.nuxt.com/) - File-based CMS
-- [Nuxt UI](https://ui.nuxt.com) - UI components
-- [Nuxt Image](https://image.nuxt.com/) - Optimized images
-- [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
-- [Docus Layer](https://www.npmjs.com/package/docus) - Documentation theme
-
-## 📖 Documentation
-
-For detailed documentation on customizing your Docus project, visit the [Docus Documentation](https://docus.dev)
-
-### 🤖 AI Assistant Skill
-
-Get started quickly with Docus by adding specialized knowledge to your AI assistant (Cursor, Claude, etc.):
-
+Then run: 
 ```bash
-npx skills add nuxt-content/docus
-```
+# install dependecies
+npm ci
 
-This skill helps you create documentation faster by providing your AI assistant with best practices, MDC component usage, ready-to-use templates, writing guidelines, and configuration tips for Docus. Perfect for quickly scaffolding new documentation projects.
-
-## 🚀 Deployment
-
-Build for production:
-
-```bash
+# build 
 npm run build
 ```
 
-The built files will be in the `.output` directory, ready for deployment to any hosting provider that supports Node.js.
-
-## 📄 License
-
-[MIT License](https://opensource.org/licenses/MIT) 
+The built files will be in the `.output` directory, ready to run on your computer!.
+```bash 
+node .output/server/index.mjs
+```
+Your documentation site will be running at `http://localhost:3000`
