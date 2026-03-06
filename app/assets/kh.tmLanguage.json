@@ -95,7 +95,7 @@
       "patterns": [
         {
           "name": "keyword.control.kh",
-          "match": "\\b(bool|break|byte|case|char|char16|char32|const|continue|define|default|deinit|double|else|enum|false|float|for|import|if|int|init|interface|long|module|namespace|null|otherwise|return|repeat|short|static|struct|switch|string|syscall|true|type|union|ubyte|ushort|uint|ulong|void|while)\\b"
+          "match": "\\b(bool|break|byte|case|char|char16|char32|const|continue|define|default|deinit|double|else|enum|false|float|for|import|if|int8|int16|int32|int64|int128|init|interface|long|module|namespace|null|otherwise|return|repeat|short|static|struct|switch|string|syscall|true|type|union|uint8|uint16|uint32|uint64|uint128|void|while)\\b"
         }
       ]
     },
