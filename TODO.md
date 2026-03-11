@@ -1,7 +1,7 @@
 # Tasks
 Previous tasks were not recorded.
 ### Default features
-- [ ] Callback
+- [x] Callback
 - [ ] Error Handling
 - [ ] Anonymous struct
 - [ ] Module & Interface
