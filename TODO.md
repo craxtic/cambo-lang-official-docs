@@ -6,5 +6,6 @@ Previous tasks were not recorded.
 - [ ] Anonymous struct
 - [ ] Module & Interface
 - [ ] System Call
-- [ ] Variadic Function
+- [x] Variadic Function
 - [ ] Operator Overloading (Registration)
+- [ ] Annotation
