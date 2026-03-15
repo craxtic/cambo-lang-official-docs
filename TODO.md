@@ -10,4 +10,4 @@ Previous tasks were not recorded.
 - [ ] Operator Overloading (Registration)
 - [x] Annotation
 - [x] Type aliasing (define)
-- [ ] Namespace
+- [x] Namespace
