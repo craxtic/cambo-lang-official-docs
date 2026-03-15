@@ -4,9 +4,10 @@ Previous tasks were not recorded.
 - [x] Callback
 - [x] Error Handling
 - [x] Stutural Type
-- [ ] Module & Interface
+- [x] Module & Interface
 - [x] System Call
 - [x] Variadic Function
 - [ ] Operator Overloading (Registration)
-- [ ] Annotation
+- [x] Annotation
 - [x] Type aliasing (define)
+- [ ] Namespace
