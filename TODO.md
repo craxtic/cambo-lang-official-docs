@@ -2,10 +2,11 @@
 Previous tasks were not recorded.
 ### Default features
 - [x] Callback
-- [ ] Error Handling
-- [ ] Anonymous struct
+- [x] Error Handling
+- [x] Stutural Type
 - [ ] Module & Interface
-- [ ] System Call
+- [x] System Call
 - [x] Variadic Function
 - [ ] Operator Overloading (Registration)
 - [ ] Annotation
+- [x] Type aliasing (define)
