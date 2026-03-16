@@ -14,5 +14,75 @@ Previous tasks were not recorded.
 - [x] Literal
 - [x] `auto` keyword
 
+**Task completed**  
+**16 March 2026, Craxtic Lab.**
 
-### Polish the documentation #1
+
+### Refine & polish the documentation #1
+**REQUIREMENT:**
+- Proper language use (correct grammar & technical words and phrases)
+- Include notes, tips, warnings, and cautions.
+- Example should be clear & understandable 
+- Page content should be extended. (provide more infomation)
+**DURATION:** 2 months maximum (17-03-26 to 17-05-26) 
+
+**getting-started page** (4 pages, 4 days)
+- [ ] introduction.md
+- [ ] installation.md
+- [ ] quickstart.md
+- [ ] troubleshooting.md
+
+**core-features page** (11 pages, 15 days)
+- [ ] mainfunction.md
+- [ ] variables.md
+- [ ] comment.md
+- [ ] conditionals.md
+- [ ] loops.md
+- [ ] functions.md
+- [ ] pointers.md
+- [ ] datatypes.md
+- [ ] operators.md
+- [ ] literal.md
+- [ ] keywords.md
+
+**features page** (8 pages, 15 days)
+- [ ] const.md
+- [ ] define.md
+- [ ] enum.md
+- [ ] union.md
+- [ ] overloading.md
+- [ ] lambda.md
+- [ ] callback.md
+- [ ] auto.md
+
+
+**advance-features page** (6 pages, 13 days)
+- [ ] generic-type.md
+- [ ] error.md
+- [ ] annotation.md
+- [ ] variadic-func.md
+- [ ] module-interface.md
+- [ ] operator-overloading.md
+
+**struct page** (5 pages, 10 days)
+- [ ] struct.md
+- [ ] methods.md
+- [ ] init-deinit.md
+- [ ] encapsulation.md
+- [ ] static.md
+
+**data-structure page** (2 pages, 3 days)
+- [ ] array.md
+- [ ] strutural-type.md
+
+**stdlib page** (2 pages, 2 days)
+- [ ] stdlib.md
+- [ ] syscall.md
+
+
+### Entend features
+- [ ] data types
+- [ ] operators
+- [ ] literals
+- [ ] annotations
+
