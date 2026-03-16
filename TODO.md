@@ -7,7 +7,12 @@ Previous tasks were not recorded.
 - [x] Module & Interface
 - [x] System Call
 - [x] Variadic Function
-- [ ] Operator Overloading (Registration)
+- [x] Operator Overloading (Registration) commin soon
 - [x] Annotation
 - [x] Type aliasing (define)
 - [x] Namespace
+- [x] Literal
+- [x] `auto` keyword
+
+
+### Polish the documentation #1
