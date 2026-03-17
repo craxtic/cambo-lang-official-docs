@@ -27,10 +27,10 @@ Previous tasks were not recorded.
 **DURATION:** 2 months maximum (17-03-26 to 17-05-26) 
 
 **getting-started page** (4 pages, 4 days)
-- [ ] introduction.md
-- [ ] installation.md
-- [ ] quickstart.md
-- [ ] troubleshooting.md
+- [x] introduction.md
+- [x] installation.md
+- [x] quickstart.md
+- [x] troubleshooting.md
 
 **core-features page** (11 pages, 15 days)
 - [ ] mainfunction.md
