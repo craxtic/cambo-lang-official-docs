@@ -33,8 +33,8 @@ Previous tasks were not recorded.
 - [x] troubleshooting.md
 
 **core-features page** (11 pages, 15 days)
-- [ ] mainfunction.md
-- [ ] variables.md
+- [x] main-function.md
+- [x] variables.md
 - [ ] comment.md
 - [ ] conditionals.md
 - [ ] loops.md
@@ -49,6 +49,7 @@ Previous tasks were not recorded.
 - [ ] const.md
 - [ ] define.md
 - [ ] enum.md
+  - defalut value
 - [ ] union.md
 - [ ] overloading.md
 - [ ] lambda.md
