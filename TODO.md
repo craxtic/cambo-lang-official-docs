@@ -25,6 +25,7 @@ Previous tasks were not recorded.
 - Example should be clear & understandable 
 - Page content should be extended. (provide more infomation)
 **DURATION:** 2 months maximum (17-03-26 to 17-05-26) 
+**TIME SAVINGS:** 3 days
 
 **getting-started page** (4 pages, 4 days)
 - [x] introduction.md
@@ -35,7 +36,7 @@ Previous tasks were not recorded.
 **core-features page** (11 pages, 15 days)
 - [x] main-function.md
 - [x] variables.md
-- [ ] comment.md
+- [x] comment.md
 - [ ] conditionals.md
 - [ ] loops.md
 - [ ] functions.md
@@ -43,7 +44,7 @@ Previous tasks were not recorded.
 - [ ] datatypes.md
 - [ ] operators.md
 - [ ] literal.md
-- [ ] keywords.md
+- [x] keywords.md
 
 **features page** (8 pages, 15 days)
 - [ ] const.md
@@ -55,6 +56,7 @@ Previous tasks were not recorded.
 - [ ] lambda.md
 - [ ] callback.md
 - [ ] auto.md
+  - remove this and add to each correspoing page
 
 
 **advance-features page** (6 pages, 13 days)
