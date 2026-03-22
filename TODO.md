@@ -37,7 +37,7 @@ Previous tasks were not recorded.
 - [x] main-function.md
 - [x] variables.md
 - [x] comment.md
-- [ ] conditionals.md
+- [x] conditionals.md
 - [ ] loops.md
 - [ ] functions.md
 - [ ] pointers.md
@@ -88,4 +88,7 @@ Previous tasks were not recorded.
 - [ ] operators
 - [ ] literals
 - [ ] annotations
+
+## Add features
+[ ] expression-based condtional
 
