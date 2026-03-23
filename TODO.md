@@ -39,7 +39,7 @@ Previous tasks were not recorded.
 - [x] comment.md
 - [x] conditionals.md
 - [x] loops.md
-- [ ] functions.md
+- [x] functions.md
 - [ ] pointers.md
 - [x] datatypes.md
 - [ ] operators.md
@@ -53,6 +53,7 @@ Previous tasks were not recorded.
   - defalut value
 - [ ] union.md
 - [ ] overloading.md
+  - merge into core-features/functions
 - [ ] lambda.md
 - [ ] callback.md
 - [ ] auto.md
