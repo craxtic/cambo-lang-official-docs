@@ -38,10 +38,10 @@ Previous tasks were not recorded.
 - [x] variables.md
 - [x] comment.md
 - [x] conditionals.md
-- [ ] loops.md
+- [x] loops.md
 - [ ] functions.md
 - [ ] pointers.md
-- [ ] datatypes.md
+- [x] datatypes.md
 - [ ] operators.md
 - [ ] literal.md
 - [x] keywords.md
