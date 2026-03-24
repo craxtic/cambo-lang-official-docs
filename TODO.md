@@ -40,7 +40,7 @@ Previous tasks were not recorded.
 - [x] conditionals.md
 - [x] loops.md
 - [x] functions.md
-- [ ] pointers.md
+- [x] pointers.md
 - [x] datatypes.md
 - [ ] operators.md
 - [ ] literal.md
